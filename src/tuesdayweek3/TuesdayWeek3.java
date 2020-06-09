@@ -7,7 +7,7 @@ package tuesdayweek3;
 
 /**
  *
- * @author QQ
+ * @author Alqassam Firwana
  */
 public class TuesdayWeek3 {
 
