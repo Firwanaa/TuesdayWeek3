@@ -23,6 +23,7 @@ public class TuesdayWeek3 {
         System.out.println("Hello From Github03 Fetch 2");
         System.out.println("Hello From Github03 Fetch 3");
         System.out.println("Second Branch-netbean");
+        System.out.println("Second Branch-Github");
         
     }
     
