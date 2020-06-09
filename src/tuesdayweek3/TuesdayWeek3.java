@@ -18,7 +18,7 @@ public class TuesdayWeek3 {
         // TODO code application logic here
         System.out.println("learning Push Op");
         System.out.println("Hello From Github");
-        
+         System.out.println("Hello From Github02");
         
     }
     
