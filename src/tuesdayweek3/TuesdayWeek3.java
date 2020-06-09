@@ -20,6 +20,7 @@ public class TuesdayWeek3 {
         System.out.println("Hello From Github pull-1");
          System.out.println("Hello From Github02 pull-2");
         System.out.println("Hello From Github03 Fetch");
+        System.out.println("Hello From Github03 Fetch 2");
         
     }
     
